@@ -13,5 +13,5 @@ This plugin works for Adrenaline Gamer and aims to bring a new type of training 
 ## Thanks to :
 
 - [@rtxa](https://github.com/rtxa) - for his [HL-Zombie-Escape](https://github.com/rtxa/HL-Zombie-Escape) plugin
+- [Fire](https://steamcommunity.com/id/therealfire/) for server and plugin testing
 - [SexAndOutrage](https://steamcommunity.com/profiles/76561198970820303/) for plugin testing
-- [@ScriptedSnark](https://github.com/ScriptedSnark) for his MTBot Lite plugin
